@@ -1,0 +1,10 @@
+<svg width="350" height="350" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#0053b1" height="175" id="svg_1" stroke="#000000" transform="matrix(1 0 0 1 0 0)" width="350" x="0" y="0"/>
+  <rect fill="#f7d000" height="175" id="svg_4" stroke="#000000" width="350" x="0" y="175"/>
+  <text fill="#007f3f" font-family="Serif" font-size="45" font-style="italic" font-weight="bold" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="178.33499" xml:space="preserve" y="216.66667">Pray for Ukraine</text>
+  <text fill="#ff00ff" font-family="Serif" font-size="45" font-weight="bold" id="svg_3" stroke="#000000" stroke-width="0" text-anchor="middle" x="170.33499" xml:space="preserve" y="140.66667">#2</text>
+ </g>
+</svg>
